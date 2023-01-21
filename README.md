@@ -3,3 +3,4 @@
 3. git commit -m "init project",  commit = запись
 4. git log / git log --online подробная / краткая информация о коммите
 5. git push [rep_link] [branch_name]
+6. git reset удаляет указанный файл из stage
